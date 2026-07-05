@@ -31,8 +31,7 @@ fake-news-detector/
 ⚠️ The trained model is too large for GitHub.
 
 👉 Download from Google Drive:
-
-[Download BERT Model]: (https://drive.google.com/drive/folders/1eaTniXsC60Tq9YbZByuo-aLu9DuKquAf)
+[📥 Download BERT Model](https://drive.google.com/drive/folders/1eaTniXsC60Tq9YbZByuo-aLu9DuKquAf)
 
 📌 After Download:
 Extract the folder

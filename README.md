@@ -39,7 +39,7 @@ fake-news-detector/
 
 👉 Download from Google Drive:
 
-Download BERT Model
+[Download BERT Model]: (https://drive.google.com/drive/folders/1eaTniXsC60Tq9YbZByuo-aLu9DuKquAf)
 
 📌 After Download:
 Extract the folder
